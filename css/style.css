@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    border: 1px solid white;
+    background-color: rgb(42, 139, 199);
+    padding: 10px;
+    text-align: center;
+    color: white;
+    min-height: 40px;
+}
+
